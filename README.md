@@ -1,3 +1,3 @@
 # Hello! I'm Aadi 🍄
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadibhat09&theme=transparent&langs_count=8&layout=compact" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aadibhat09&theme=dark)
